@@ -1,6 +1,4 @@
 ---
-# tasks file for pointer-apps
----
 - name: Instalando Docker
   apt:
     name: docker.io
