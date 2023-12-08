@@ -5,4 +5,4 @@ sudo apt-get install git ansible -y
 git clone https://github.com/aelthas02/pointer-apps.git /tmp/pointer-apps/
 
 cd /tmp/pointer-apps/
-ansible-playbook pointer-playbook.yml
+ansible-playbook pointer-playbook.yaml
